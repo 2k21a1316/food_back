@@ -1,0 +1,6 @@
+npm init 
+mongo db password is mernapp
+creating a package.json file
+
+node module is the file of all dependencies
+package lock json by npm i
